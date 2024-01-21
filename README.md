@@ -19,7 +19,7 @@ Este projeto é um aplicativo de controle de despesas pessoal com uma ampla gama
 
 ## Bibliotecas Utilizadas
 
-- **Tkinter:**
+- **Tkinter**
 - **MySQL Connector**
 - **Datetime**
 - **Locale**
